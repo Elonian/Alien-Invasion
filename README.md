@@ -1,5 +1,5 @@
 # Alien-Invasion
-Gudied project (Python Crash course)
+
 
 ## Game Instructions
 1. Run alien_invasion.py file
